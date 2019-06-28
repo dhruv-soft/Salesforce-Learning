@@ -27,6 +27,7 @@ Curating the Salesforce Learning Resources
 
   ## Articles
   
+   * [Introduction to Lightning Scheduler](https://www.dhruvsoft.com/blog/salesforce-lightning-scheduler/) - Salesforce Lightning Scheduler Introduction
    * [Salesforce Custom Metadata Type](https://www.dhruvsoft.com/blog/salesforce-custom-metadata-types-for-isv-apps/) - Salesforce Custom Metadata Types for ISV apps
   
   ## Help
