@@ -26,6 +26,9 @@ Curating the Salesforce Learning Resources
   * [Trailhead](https://trailhead.salesforce.com/) - The fun way to learn Salesforce
 
   ## Articles
+  
+   * [Salesforce Custom Metadata Type](https://www.dhruvsoft.com/blog/salesforce-custom-metadata-types-for-isv-apps/) - Salesforce Custom Metadata Types for ISV apps
+  
   ## Help
   ## General Topics
   ## Tutorials
