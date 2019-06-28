@@ -1,4 +1,4 @@
-# Salesforce-Learning
+# Salesforce Learning Resources
 Curating the Salesforce Learning Resources
 
   * [Books](#books)
